@@ -33,7 +33,7 @@
     "@nebular/eva-icons": "4.6.0",
     "@nebular/theme": "^4.6.0",
     "eva-icons": "^1.1.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "path": "^0.12.7",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
